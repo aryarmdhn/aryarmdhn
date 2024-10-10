@@ -42,7 +42,7 @@ const arya = {
 
 
 ### Activity Graph 📈
-[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryarmdhn&theme=react-light&hide_border=true&color=000000&line=0066ff&point=000000&area=true&area_color=0066ff)](https://github.com/aryarmdhn)
+[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryarmdhn&theme=react-dark&hide_border=true&bg_color=000000&color=ffffff&line=0066ff&point=ffffff&area=true&area_color=000000)](https://github.com/aryarmdhn)
 
 ### Let's Connect! 🤝
 
