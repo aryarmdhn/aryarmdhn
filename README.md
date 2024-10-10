@@ -23,13 +23,13 @@ const arya = {
 
 ### What I'm up to 🌱
 
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+
 - 👨‍💻 I'm currently learning **Flutter** for mobile development
 - 💡 I'm interested in becoming a **Fullstack Developer**
 - 🎯 Goals: Contribute more to Open Source projects
 - 😄 Fun fact: I love coding and learning new technologies!
 
-### Free Palestine
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 
 ### Tech Stack 🛠️
 
