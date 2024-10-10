@@ -6,9 +6,10 @@
 
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryarmdhn&label=Profile%20views&color=0e75b6&style=flat" alt="aryarmdhn" />
+<p align="center" style="background-color:#f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://komarev.com/ghpvc/?username=aryarmdhn&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views of aryarmdhn" />
 </p>
+
 
 ### About Me 🚀
 
