@@ -39,6 +39,8 @@
   </p>
 </div>
 
+[![Moh. Arta (Arya) Ramadhanu profile views](https://u8views.com/api/v1/github/profiles/128439373/views/day-week-month-total-count.svg)](https://u8views.com/github/aryarmdhn)
+
 ### About Me 🚀
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
