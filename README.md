@@ -38,11 +38,23 @@ const arya = {
 ### GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryarmdhn&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryarmdhn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0066ff&text_color=000000&icon_color=0066ff"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryarmdhn&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryarmdhn&theme=default&hide_border=true&background=ffffff&ring=0066ff&fire=0066ff&currStreakLabel=0066ff"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryarmdhn&layout=compact&langs_count=7&theme=algolia&hide_border=true&bg_color=ffffff&title_color=0066ff&text_color=000000"/>
+</p>
+
+### Activity Graph 📈
+[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryarmdhn&theme=react-light&hide_border=true&color=0066ff&line=0066ff&point=0066ff&area=true&area_color=0066ff)](https://github.com/aryarmdhn)
+
+### Profile Trophy 🏆
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryarmdhn&theme=flat&column=7&margin-w=10&no-bg=true"/>
 </p>
 
 ### Let's Connect! 🤝
