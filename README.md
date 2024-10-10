@@ -6,10 +6,23 @@
 
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h3>
 
-<p align="center" style="background-color:#f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <img src="https://komarev.com/ghpvc/?username=aryarmdhn&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views of aryarmdhn" />
+<p align="center" style="
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  display: inline-block;
+">
+  <img src="https://komarev.com/ghpvc/?username=aryarmdhn&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+       alt="Profile views of aryarmdhn" 
+       style="
+         border-radius: 8px;
+         transition: transform 0.3s ease-in-out;
+       "
+       onmouseover="this.style.transform='scale(1.05)'"
+       onmouseout="this.style.transform='scale(1)'"
+  />
 </p>
-
 
 ### About Me 🚀
 
