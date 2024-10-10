@@ -5,6 +5,8 @@
 </p>
 
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h3>
+
+
 <div align="center" style="
   background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
   padding: 20px;
@@ -12,9 +14,9 @@
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
   display: inline-block;
 ">
-  <p style="margin-bottom: 15px;">
-    <img src="https://komarev.com/ghpvc/?username=aryarmdhn&label=Total%20Views&color=0e75b6&style=for-the-badge" 
-         alt="Total profile views of aryarmdhn" 
+  <a href="https://u8views.com/github/aryarmdhn" target="_blank">
+    <img src="https://u8views.com/api/v1/github/profiles/128439373/views/day-week-month-total-count.svg" 
+         alt="Moh. Arta (Arya) Ramadhanu profile views" 
          style="
            border-radius: 8px;
            transition: transform 0.3s ease-in-out;
@@ -22,24 +24,9 @@
          onmouseover="this.style.transform='scale(1.05)'"
          onmouseout="this.style.transform='scale(1)'"
     />
-  </p>
-  <p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://komarev.com/ghpvc/?username=aryarmdhn&label=Daily&color=dc143c&style=flat-square" 
-         alt="Daily profile views" 
-         style="border-radius: 5px;"
-    />
-    <img src="https://komarev.com/ghpvc/?username=aryarmdhn&label=Weekly&color=006400&style=flat-square" 
-         alt="Weekly profile views" 
-         style="border-radius: 5px;"
-    />
-    <img src="https://komarev.com/ghpvc/?username=aryarmdhn&label=Monthly&color=4169e1&style=flat-square" 
-         alt="Monthly profile views" 
-         style="border-radius: 5px;"
-    />
-  </p>
+  </a>
 </div>
 
-[![Moh. Arta (Arya) Ramadhanu profile views](https://u8views.com/api/v1/github/profiles/128439373/views/day-week-month-total-count.svg)](https://u8views.com/github/aryarmdhn)
 
 ### About Me 🚀
 
