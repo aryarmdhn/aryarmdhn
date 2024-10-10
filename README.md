@@ -41,9 +41,6 @@ const arya = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryarmdhn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0066ff&text_color=000000&icon_color=0066ff"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryarmdhn&theme=default&hide_border=true&background=ffffff&ring=0066ff&fire=0066ff&currStreakLabel=0066ff"/>
-</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryarmdhn&layout=compact&langs_count=7&theme=algolia&hide_border=true&bg_color=ffffff&title_color=0066ff&text_color=000000"/>
@@ -60,7 +57,7 @@ const arya = {
 ### Let's Connect! 🤝
 
 <p align="center">
-  <a href="https://linkedin.com/in/aryarmdhn" target="_blank">
+  <a href="https://www.linkedin.com/in/artarmdhn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <!-- Add more social media badges as needed -->
