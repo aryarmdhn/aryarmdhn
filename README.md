@@ -12,6 +12,8 @@
 
 ### About Me 🚀
 
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+
 ```javascript
 const arya = {
     name: "Arya",
@@ -23,7 +25,6 @@ const arya = {
 
 ### What I'm up to 🌱
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 
 - 👨‍💻 I'm currently learning **Flutter** for mobile development
 - 💡 I'm interested in becoming a **Fullstack Developer**
