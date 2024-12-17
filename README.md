@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHIIpvf3ug-bQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721183581440?e=1733961600&v=beta&t=_B2yNIWbr1bHzoeVIlx87iCXdZiEwDs9gSz9RdySsA4" alt="banner" />
-</p>
+
 
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h3>
 
