@@ -34,7 +34,7 @@
 const arya = {
     name: "Arya",
     role: "Fullstack Developer",
-    currentFocus: "Flutter Development",
+    currentFocus: "Web Development",
     passions: ["Web Development", "Mobile Development", "Problem Solving"]
 }
 ```
