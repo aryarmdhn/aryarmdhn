@@ -45,7 +45,7 @@ const arya = {
 - 👨‍💻 I'm currently learning **Flutter** for mobile development
 - 💡 I'm interested in becoming a **Fullstack Developer**
 - 🎯 Goals: Contribute more to Open Source projects
-- 😄 Fun fact: I love coding and learning new technologies!
+- 😄 I love coding and learning new technologies!
 
 
 ### Tech Stack 🛠️
